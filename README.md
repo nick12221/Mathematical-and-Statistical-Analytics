@@ -1,2 +1,4 @@
 # Mathematical-and-Statistical-Analytics
-Hi
+Hi friends! I have been interested in learning the math behind linear regression and wanted to create my own functions to solve the OLS equation. Since OLS has a closed form solution, I created my own functions to perform the linear algebra to solve this formula. The MathematicalAndStatistcalAnalytics (MASA) library is designed as a slimmed down library for performing statistical learning. There are functions for running and evaluating linear regression models as well as my own algorithm designed to automatically linear transform independent variables where a non linear relationship fis the data better. Only NumPy is needed to run this library.
+
+In this repository is also a jupyter notebook that walks through importing the MASA library from github and running an analysis using it and comparing outputs to production packages such as stats models. A sample dataset is also included. Please install wget in order to pull down the library directly from github and then import into the jupyter notebook. Please enjoy the library!
