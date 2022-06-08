@@ -1,6 +1,5 @@
 # Mathematical-and-Statistical-Analytics
 
-
  <p align="center">
   <img width="460" height="300" src="https://cdn.shopify.com/s/files/1/0063/7373/6566/files/637008834449770000_33151eab-5a4f-4968-bedc-6ea494e02534_480x480.jpg?v=1603827220">
 
