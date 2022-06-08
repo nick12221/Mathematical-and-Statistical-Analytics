@@ -1,10 +1,10 @@
 # Mathematical-and-Statistical-Analytics
 
  <p align="center">
-  <img width="460" height="300" src="https://cdn.shopify.com/s/files/1/0063/7373/6566/files/637008834449770000_33151eab-5a4f-4968-bedc-6ea494e02534_480x480.jpg?v=1603827220">
+  <img width="600" height="300" src="https://easyreadernews.com/wp-content/uploads/2020/12/IMG_0635-2-XL.jpg">
 
 ### Description
-Hi friends! I have been interested in learning the math behind linear regression and wanted to create my own code to solve the OLS equation from scratch. The MathematicalAndStatisticalAnalysis (MASA) library is a statistical package that focuses on linear regression, stastical testing and model evaluation. It also contains my own auto linear transformation OLS algorithm (ALTOLS) that automatically tests different fits between the x and y variables and chooses a linear transformation that leads to the highest R2. Please enjoy!
+Hi friends! I have been interested in learning the math behind linear regression and wanted to create my own code to solve the OLS equation from scratch. The MathematicalAndStatisticalAnalysis (MASA) library is a statistical package that focuses on linear regression, stastical testing and model evaluation. It also contains my own auto linear transformation OLS algorithm (ALTOLS) that automatically tests different relationships between the x and y variables and chooses a linear transformation of each x variable that leads to the highest R2. Please enjoy!
 
 ### How to use
 
