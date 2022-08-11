@@ -9,9 +9,8 @@ My Auto Linear Transformation (ALTOLS) algorithm is also included in this packag
 Full documentation is available in the package with the help command.
 
 ## **Installation**
---Currently still being improved, below is current installation--
 
 * 1. Please ensure you have Visual Studio Code C++ built tools installed.
 * 2. Please make sure you have git installed and in your PATH.
 
-pip install git+ https://github.com/nick12221/Mathematical-and-Statistical-Analytics.git
+pip install MASA
