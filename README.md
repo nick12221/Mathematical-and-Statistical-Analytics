@@ -11,6 +11,5 @@ Full documentation is available in the package with the help command.
 ## **Installation**
 
 * 1. Please ensure you have Visual Studio Code C++ built tools installed.
-* 2. Please make sure you have git installed and in your PATH.
 
 pip install MASA
