@@ -10,6 +10,6 @@ Full documentation is available in the package with the help command.
 
 ## **Installation**
 
-* 1. Please ensure you have Visual Studio Code C++ built tools installed.
+* 1. Microsoft Visual C++ 14.0 or greater is required. Get it with Microsoft C++ Build Tools. Can be installed through Visual Studio Installer.
 
 pip install MASA
