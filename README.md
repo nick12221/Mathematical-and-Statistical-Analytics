@@ -11,4 +11,4 @@ All functions only accept numpy array type objects. Full documentation is availa
 ## **Installation**
 
 * 1. Microsoft Visual C++ 14.0 or greater is required. Get it with Microsoft C++ Build Tools. Can be installed through Visual Studio Installer or go to this link: https://visualstudio.microsoft.com/visual-cpp-build-tools/
-* 2. Once that is installed:   pip install MASA
+* 2. Once the above is installed:   **pip install MASA**
