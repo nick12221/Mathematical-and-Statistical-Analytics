@@ -1,8 +1,8 @@
 ## **Overview**
 
-Hi Everyone!
+Hi!
 
-This repository is a statistical software package written in Cython. The matrix algebra for solving the OLS equation and statistical formulas are all coded by hand, leveraging Cython's static variable declaration and memory views for more efficient operations.
+This repository is a statistical software package written in Cython. 
 
 My Auto Linear Transformation (ALTOLS) algorithm is also included in this package. While the traditional OLS approach assumes all independent variables have a linear relationship with the response variable, this automatically tests for non linear relationships to see if this leads to an improvement in model performance. 
 
